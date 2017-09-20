@@ -1,0 +1,74 @@
+{
+  "namespace": "App",
+  "components": [
+    [
+      "MY-COUNTER",
+      "iscq0tbc",
+      {
+        "$": "16mmk3yb"
+      },
+      [
+        [
+          "max",
+          1,
+          2
+        ],
+        [
+          "min",
+          1,
+          2
+        ],
+        [
+          "start",
+          1,
+          2
+        ],
+        [
+          "step",
+          1,
+          2
+        ]
+      ]
+    ],
+    [
+      "STENCIL-ROUTE",
+      "if0opbrp",
+      {}
+    ],
+    [
+      "STENCIL-ROUTE-LINK",
+      "if0opbrp",
+      {},
+      0,
+      0,
+      1
+    ],
+    [
+      "STENCIL-ROUTER",
+      "if0opbrp",
+      {},
+      0,
+      0,
+      1
+    ],
+    [
+      "STENCIL-ROUTER-REDIRECT",
+      "if0opbrp",
+      {}
+    ],
+    [
+      "TEST-APP",
+      "imd9xidt",
+      {}
+    ],
+    [
+      "TEST-PAGE",
+      "imd9xidt",
+      {}
+    ]
+  ],
+  "loader": "app.js",
+  "global": "app.global.js",
+  "core": "app/app.audakvld.js",
+  "corePolyfilled": "app/app.8x4gnafy.pf.js"
+}
